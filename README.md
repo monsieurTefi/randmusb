@@ -1,10 +1,10 @@
-Randomizr
+RANDMUSB                                            
 =========
 
 A bash script allowing you to generate and copy a random playlist of songs from your computer to your USB drive!
 
 ## 1. How to use
-<pre>./script.sh NB_MUSIC SRC/ DEST/ [no-clear]</pre>
+<pre>./random.sh NB_MUSIC SRC/ DEST/ [no-clear]</pre>
 
 With:
 * NB_MUSIC: the number of music that will be in your playlist
