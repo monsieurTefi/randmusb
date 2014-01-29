@@ -1,7 +1,12 @@
-# To do list
+# Upcoming features
 
-* Create a .m3u (check if it works with VLC for instance)
-* See if iTunes doesn't already have a list of all music tracks.
+### Will be done soon.
+
+* Creation of a .m3u
+* Use iTunes xml library (/Users/<USR>/Music/iTunes/iTunes Music Library.xml)
+* Personalised script, so that you don't have to type in how many songs you want and where your library is everytime.
+
+### Will be done, just not so soon.
+
 * Add possibility to exclude/oblige some artists or songs to be copied
-* Personalised script. Remembers how many songs and what are SRC/ and DEST/
-|-> need a script for its creation
+* Same for genres
